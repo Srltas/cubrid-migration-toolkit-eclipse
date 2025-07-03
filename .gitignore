@@ -1,0 +1,10 @@
+# Maven build directory
+target/
+**/target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package outputs
+*.jar
