@@ -40,7 +40,7 @@
 ### Build & Package
 1) Clone the repository
 ```bash
-git clone https://github.com/CUBRID/cubrid-migration-toolkit-eclipse.git
+git clone https://github.com/Srltas/cubrid-migration-toolkit-eclipse.git
 cd cubrid-migration-toolkit-eclipse
 ```
 
